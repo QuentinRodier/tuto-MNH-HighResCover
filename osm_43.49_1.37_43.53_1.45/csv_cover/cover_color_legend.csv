@@ -1,0 +1,13 @@
+N_COVER,Description,NAME,color
+2,Inland waters,COVER002,blue
+7,Urban and built-up,COVER007,grey
+87,Semiarid continental Open Shrubland,COVER087,palegreen
+155,Industries and commercial areas ,COVER155,dimgrey
+156,Road and rail networks,COVER156,black
+159,construction sites ,COVER159,sienna
+160,Urban parks,COVER160,green
+190,French complex cultivation pat.  ,COVER190,olive
+194,French crops and woodland  ,COVER194,lime
+203,Temperate broad-leaved forest ,COVER203,forestgreen
+227,Mediter. moors & heath lands,COVER227,chartreuse
+235,Temperate woodland,COVER235,seagreen

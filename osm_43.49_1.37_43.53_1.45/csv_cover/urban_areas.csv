@@ -1,0 +1,9 @@
+TYPE,N_COVER,Description
+education,7,Urban and built-up
+transport,156,Road and rail networks
+commercial,155,Industries and commercial areas 
+military,7,Urban and built-up
+light_industry,155,Industries and commercial areas
+construction,159,construction sites 
+agricultural,7,Bare land
+residential,7,Urban and built-up
